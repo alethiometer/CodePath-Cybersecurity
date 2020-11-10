@@ -6,6 +6,6 @@ Through redesigning Facebook University, the founders learned that the programmi
 
 In 2017, the team behind CodePath.com founded CodePath.org to eliminate educational inequity in technical education starting with college C.S. education. [1]
 
-This repository stores some of the methods, functions, and pages implemented for various exercises in the Cybersecurity Technology Fellow training.
+This repository stores some of the methods, functions, and pages implemented for various exercises in the Cybersecurity Technology Fellow training. See alternate branches for code organized by training unit.
 
 [1] codepath.org/about
