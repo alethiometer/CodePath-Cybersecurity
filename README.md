@@ -53,3 +53,5 @@ SHA1 Hash: *Run `sha1sum` on the file and record the hash here.*
 ## Notes
 
 Describe any challenges encountered while doing the assignment.
+
+There were several challenges to this assignment, among them, determining the meaning behind terminal input chunks and troubleshooting permission priviledges. For example, the initializing step for the GCP took longer than anticipated given permission requirements from the GCP account organization. In order to understand the meaning behind the various imports and understand the mechanisms for opening new terminal for the remote MHN or honeypot, outside research was required for every step in the assignment process. Perhaps most challenging was the jump in knowledge expectations from the last assignment to this current assignment.
